@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "448827",
+      "name": "习题",
+      "font_class": "xiti",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "532908",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "733699",
+      "name": "动画",
+      "font_class": "donghua",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1221135",
+      "name": "素材",
+      "font_class": "sucai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4828748",
+      "name": "问题",
+      "font_class": "wenti",
+      "unicode": "e96b",
+      "unicode_decimal": 59755
+    },
+    {
+      "icon_id": "8779221",
+      "name": "微课",
+      "font_class": "weike",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12982551",
+      "name": "答案",
+      "font_class": "biaozhundaan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13828768",
+      "name": "资源管理",
+      "font_class": "ziyuanguanli",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    }
+  ]
+}

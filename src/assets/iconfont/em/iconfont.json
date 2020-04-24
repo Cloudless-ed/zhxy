@@ -1,0 +1,142 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "480725",
+      "name": "微信",
+      "font_class": "wechat-outline",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1176408",
+      "name": "值日",
+      "font_class": "29zhiri",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1502531",
+      "name": "学籍管理",
+      "font_class": "xuejiguanli",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "1860562",
+      "name": "学生管理",
+      "font_class": "xueshengguanli",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "3041417",
+      "name": "添加家长",
+      "font_class": "tianjiajiachang",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "4572610",
+      "name": "纪律",
+      "font_class": "jilv",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "5004989",
+      "name": "值日",
+      "font_class": "zhiri",
+      "unicode": "e559",
+      "unicode_decimal": 58713
+    },
+    {
+      "icon_id": "6695053",
+      "name": "班级荣誉",
+      "font_class": "banjirongyu",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6890367",
+      "name": "干部",
+      "font_class": "ganbu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "7147792",
+      "name": "04_寝室管理",
+      "font_class": "_qinshiguanli",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "7713565",
+      "name": "班级管理",
+      "font_class": "banjiguanli",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "8630872",
+      "name": "干部管理",
+      "font_class": "ganbuguanli",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "8670589",
+      "name": "班级",
+      "font_class": "banji",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "8839170",
+      "name": "个人荣誉称号申请查询",
+      "font_class": "gerenrongyuchenghaoshenqingchaxun",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "9485853",
+      "name": "住宿管理-灰",
+      "font_class": "zhusuguanli-hui",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10011381",
+      "name": "学生管理",
+      "font_class": "xueshengguanli1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "11634648",
+      "name": "作业",
+      "font_class": "zuoye",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12469383",
+      "name": "学生管理",
+      "font_class": "xueshengguanli2",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "13486422",
+      "name": "年轻干部",
+      "font_class": "nianqingganbu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}

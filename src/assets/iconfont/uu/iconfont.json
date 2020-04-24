@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1391280",
+      "name": "功能管理",
+      "font_class": "gongnengguanli",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1810273",
+      "name": "组织管理",
+      "font_class": "icon-test",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "4396316",
+      "name": "部门管理",
+      "font_class": "bumenguanli",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4675386",
+      "name": "日志管理",
+      "font_class": "rizhiguanli",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "5147333",
+      "name": "员工管理",
+      "font_class": "yuangongguanli",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "5391607",
+      "name": "用户信息",
+      "font_class": "yonghuxinxi",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "8084580",
+      "name": "用户/角色",
+      "font_class": "yonghu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9697579",
+      "name": "用户信息",
+      "font_class": "icon_xinyong_xianxing_jijin-",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11799062",
+      "name": "用户权限",
+      "font_class": "yonghuquanxian",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "12548446",
+      "name": "权限管理",
+      "font_class": "quanxianguanli-",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "12659612",
+      "name": "单位管理",
+      "font_class": "danweiguanli",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12694068",
+      "name": "用户权限",
+      "font_class": "yonghuquanxian1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "13872072",
+      "name": "日志管理",
+      "font_class": "rizhiguanli1",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}
